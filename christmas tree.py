@@ -34,3 +34,7 @@ for i in range(1,int (( row + 1/2))):
     for j in range(1, col + 1):
         print('',end=' ')
     print('             * *')
+    
+    
+    
+print('hai')
